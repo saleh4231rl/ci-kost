@@ -143,7 +143,7 @@
         <div class="pull-right hidden-xs">
           <b></b> 
         </div>
-        <strong>INTI PHP &copy; <?php echo date('Y'); ?></strong>
+        <strong>Muhammad Saleh &copy; <?php echo date('Y'); ?></strong>
       </footer>
 
       <!-- Control Sidebar -->

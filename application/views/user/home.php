@@ -150,7 +150,7 @@
          <div class="container">
              <div class="row">
                  <div class="col-sm-6">
-                     <p class="copyright">&copy; Copyright <?php echo date('Y'); ?> INTI PHP</a></p>
+                     <p class="copyright">&copy; Copyright <?php echo date('Y'); ?> Muhammad Saleh</a></p>
                  </div>
 
                  <div class="col-sm-6 ">
